@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "670029978353",
+    "firebase_url": "https://blueprint-a3a53-default-rtdb.firebaseio.com",
+    "project_id": "blueprint-a3a53",
+    "storage_bucket": "blueprint-a3a53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670029978353:android:6736b379f3c13f81976750",
+        "android_client_info": {
+          "package_name": "com.example.blueprint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEdA278yfwna854X-0I7-jN_X7AqaZeBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
